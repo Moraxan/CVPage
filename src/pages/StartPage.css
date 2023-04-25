@@ -1,0 +1,35 @@
+.startpage-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr 1fr;
+  height: 95vh;
+  margin-left: 30vw;
+  margin-right: 30vw;
+}
+
+.contact {
+  grid-column: 1;
+  grid-row: 1;
+  background-color: #EEFFFE;
+  border: black solid 3px;  
+  border-right: none;
+  height: 100%;
+}
+
+.education {
+    
+    grid-column: 2;
+    grid-row: 1;
+    background-color: #FFEEEE;
+    border: black solid 3px; 
+    height: 100%;
+}
+
+
+.experience {
+    grid-column: 1 / 3;
+    grid-row: 2;
+    background-color: #D7DDF3;
+    border: black solid 3px;  
+    height: 100%;
+}

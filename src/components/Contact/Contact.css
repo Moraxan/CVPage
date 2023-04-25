@@ -1,0 +1,30 @@
+.presimage {
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 50%;
+  }
+  
+  .presimage img {
+    width: 100%;
+    height: auto;
+  }
+.presinfo {
+    padding-left: 10px;
+  }
+
+
+hr {
+    height: 3px;
+    background-color: #2DC8BE;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-width: 1px;
+  }
+  
+.contactinfo {
+    padding: 10px;
+    padding-top: 0px;
+}
+
+ 
