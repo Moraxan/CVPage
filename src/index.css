@@ -8,3 +8,8 @@
 body {
   font-family: 'Lato', sans-serif;
 }
+
+hr {
+  height: 3px;
+  background-color: #2DC8BE;
+}

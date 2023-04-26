@@ -14,6 +14,9 @@
   border: black solid 3px;  
   border-right: none;
   height: 100%;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .education {
@@ -23,6 +26,8 @@
     background-color: #FFEEEE;
     border: black solid 3px; 
     height: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 
@@ -32,4 +37,7 @@
     background-color: #D7DDF3;
     border: black solid 3px;  
     height: 100%;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
 }

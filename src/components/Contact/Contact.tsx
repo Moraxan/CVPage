@@ -1,4 +1,6 @@
+import '../../index.css';
 import './Contact.css';
+
 
 
 export const Contact = () => {
